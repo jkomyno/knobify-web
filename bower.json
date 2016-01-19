@@ -1,11 +1,11 @@
 {
-  "name": "nativeDroid2",
-  "version": "2.0.1",
-  "homepage": "http://nativedroid.godesign.ch/material/",
+  "name": "knobify-web-app",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jkomyno/knobify-web",
   "authors": [
-    "Raphael Wildhaber"
+    "Alberto Schiabel"
   ],
-  "description": "nativeDroid2 is a jQueryMobile Template inspired by Material Design",
+  "description": "Knobify is a material design web app that mixes new technologies with music",
   "main": "js/nativeDroid.js",
   "moduleType": [
     "amd",
