@@ -1,0 +1,25 @@
+{
+  "name": "knobify-web",
+  "version": "0.1.1",
+  "description": "The result of the mixture of Material Design with smart Music",
+  "main": "js/knobify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkomyno/knobify-web.git"
+  },
+  "keywords": [
+    "knobify",
+    "music",
+    "Alberto",
+    "Schiabel"
+  ],
+  "author": "Alberto Schiabel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkomyno/knobify-web/issues"
+  },
+  "homepage": "https://github.com/jkomyno/knobify-web#readme"
+}
